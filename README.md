@@ -3,6 +3,7 @@
 ### EDA Projects <br>
 * #### <a href="https://github.com/Subhani-78/100-Days-of-EDA/tree/main/EDA%20on%20Happiness%20Index%20Report%202022%20%F0%9F%90%8B">Happiness Report EDA + Map Visualization 🦘</a><br>
 * #### <a href="https://github.com/Subhani-78/100-Days-of-EDA/tree/main/EDA%20on%20World%20Population%20Report%202022%20%F0%9F%90%BF%EF%B8%8F">World Population EDA + Map Visualization 🐿️</a><br>
+* #### <a href="https://github.com/Subhani-78/100-Days-of-EDA/tree/main/EDA%20on%20World%20Population%20Report%202022%20%F0%9F%90%BF%EF%B8%8F">Medical Insurance Cost Prediction + EDA 🐶</a><br>
 
 ## Previous 🦉
 #### <a href="https://github.com/Subhani-78/Beginner-Python-Projects">Python Projects for Beginners 🐍</a>
